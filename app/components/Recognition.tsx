@@ -9,13 +9,6 @@ const awards = [
     isChampion: false,
   },
   {
-    year: "2026",
-    placement: "1st Runner Up",
-    event: "Televerse 1.0 Micro-ops National Hackathon",
-    location: "Chittagong, BD",
-    isChampion: false,
-  },
-  {
     year: "2025",
     placement: "Champion",
     event: "UAP Innovatex 2025",
